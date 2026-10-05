@@ -99,7 +99,3 @@ This is a learning-stage project. Do not deploy it publicly before fixing the fo
 - Order status workflow (new, in progress, ready, delivered)
 - Role-based access to pages and actions
 - Styling and responsive layout
-
-## License
-
-No license specified. Add a `LICENSE` file if you want others to reuse the code.
